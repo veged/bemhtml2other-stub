@@ -1,6 +1,7 @@
-# Minimal setup to start a new [BEM](http://bem.info) project
+# Minimal setup to start a new [BEM](http://bem.info) project with varying template engines
 
 This repository contains the *minimal* configuration-files and folders you will need to create a [BEM](http://bem.info) project from *scratch*.
+And also here is trivial examples of how you can use (BEMHTML)[http://bem.info/libs/bem-core/1.0.0/bemhtml/rationale/]-templates for generate other templates.
 
 ---
 
@@ -32,6 +33,8 @@ Navigate to: http://localhost:8080/desktop.bundles/index/index.html
 ````
 
 (here, have a link: [http://localhost:8080/desktop.bundles/index/index.html](http://localhost:8080/desktop.bundles/index/index.html))
+
+And alongside `index` you can find `xslt` and `tt2` for examples about generating [XSLT](http://ru.wikipedia.org/wiki/XSLT) and [TT2](http://www.template-toolkit.org).
 
 ---
 
